@@ -45,3 +45,6 @@ To execute this script, the [Optimization Toolbox](https://www.mathworks.com/hel
 |CPC(4) $r=0.41421356$|CPC(5) $r=0.37019191$|CPC(6) $r=0.33333333$|
 |![](image/CPC(7).png)|![](image/CPC(8).png)|![](image/CPC(9).png)|
 |CPC(7) $r=0.33333333$|CPC(8) $r=0.30259339$|CPC(9) $r=0.27676865$|
+
+# Related articles
+* [正方形に円を詰め込もう](https://qiita.com/tomtkg/items/a732f73c96783f280aab)
